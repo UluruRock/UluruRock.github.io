@@ -25,11 +25,5 @@
 ![](https://github.com/UluruRock/UluruRock.github.io/raw/master/resouce/20170216142729.jpg)
 
 ![](https://github.com/UluruRock/UluruRock.github.io/raw/master/resouce/20170216142733.jpg)
-        <div class="row text-center">
-            <div class="col-lg-12">
-                <p>Copyright &copy; Your Website 2017 <a href="mailto:1430159665@qq.com" class="social-link-item"
-                                                         target="_blank"><i class="fa fa-fw fa-envelope"></i>
-                    1430159665@qq.com </a> <i class="fa fa-fw fa-tty"></i> 李欣然 作业
-                </p>
-            </div>
-        </div>
+Copyright &copy; Your Website 2017 <a href="mailto:1430159665@qq.com" class="social-link-item" target="_blank"><i class="fa fa-fw fa-envelope"></i>1430159665@qq.com </a> <i class="fa fa-fw fa-tty"></i> 李欣然 作业</p>
+
