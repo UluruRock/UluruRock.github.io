@@ -1,7 +1,7 @@
 # 人生逆境
 
-
-     我们每个人都可能有环境不好，遭遇坎坷，工作辛苦的时候。说得严重一点，几乎可以说，在我们每个人降生到这个世界以前，就被注定了要背负起经历各种困难折磨的命运。
+***
+我们每个人都可能有环境不好，遭遇坎坷，工作辛苦的时候。说得严重一点，几乎可以说，在我们每个人降生到这个世界以前，就被注定了要背负起经历各种困难折磨的命运。
 ![](https://github.com/UluruRock/UluruRock.github.io/raw/master/resouce/20170216142503.jpg)
  　　但这并不是说，因此就该认定人间没有乐趣，或不值得人间来这一趟。我们虽然被注定了要靠劳力、靠工作来维持自己的生活，虽然被注定有七情六欲来品尝人间各种各样的离合悲欢，可是，我们却有机会欣赏这有鸟语花香的世界，我们还有智慧可以体味人间苦乐的真谛，我们也还有心情来领略人间的爱心、善良和同情是何等的珍贵。总而言之，和我们所付出的代价比起来，我们的收获是值得的。
 ![](https://github.com/UluruRock/UluruRock.github.io/raw/master/resouce/111.jpg)
@@ -25,3 +25,11 @@
 ![](https://github.com/UluruRock/UluruRock.github.io/raw/master/resouce/20170216142729.jpg)
 
 ![](https://github.com/UluruRock/UluruRock.github.io/raw/master/resouce/20170216142733.jpg)
+        <div class="row text-center">
+            <div class="col-lg-12">
+                <p>Copyright &copy; Your Website 2017 <a href="mailto:1430159665@qq.com" class="social-link-item"
+                                                         target="_blank"><i class="fa fa-fw fa-envelope"></i>
+                    1430159665@qq.com </a> <i class="fa fa-fw fa-tty"></i> 李欣然 作业
+                </p>
+            </div>
+        </div>
